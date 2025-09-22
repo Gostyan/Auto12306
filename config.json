@@ -1,0 +1,14 @@
+{
+  "from_station": "出发站",
+  "to_station": "目的地",
+  "travel_date": "2025-10-05",
+  "ticket_type": "adult",
+  "depart_time_range": {
+    "start": "11:00",
+    "end": "15:30"
+  },
+  "seat_category": "二等座",
+  "seat_position_preference": "first",
+  "booking_start_time": "2025-09-22 21:23:00",
+  "_saved": true
+}
