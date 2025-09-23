@@ -1,10 +1,11 @@
 {
-  "from_station": "广州南",
-  "to_station": "郴州西",
+  "from_station": "出发地",
+  "to_station": "目的地",
   "travel_date": "2025-10-05",
   "ticket_type": "adult",
-  "depart_time_range": "07:00-09:30",
+  "target_train_number": "G818",
+  "depart_time_range": "07:00-11:30",
   "seat_category": "二等座",
   "seat_position_preference": "first",
-  "booking_start_time": "2025-09-22 21:23:00"
+  "booking_start_time": "2025-09-22 21:30:00"
 }
